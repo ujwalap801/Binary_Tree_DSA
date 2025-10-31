@@ -14,4 +14,6 @@
 
 ## [In_Order](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
+## [Symmetric](https://leetcode.com/problems/symmetric-tree/)
+
 ## [ZigZag_Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
