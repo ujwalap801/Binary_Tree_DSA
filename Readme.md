@@ -1,18 +1,18 @@
 ## [Normal]
 
-## [Post_Order](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+## [In_Order](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-## [Pre_Order](https://leetcode.com/problems/binary-tree-preorder-traversal/)
-
+## [Invert_Tree](https://leetcode.com/problems/invert-binary-tree/)
 
 ## [Level_Order](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
 ## [Maximum_Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 
-
 ## [Path_SUM](https://leetcode.com/problems/path-sum/)
 
-## [In_Order](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+## [Post_Order](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+
+## [Pre_Order](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
 ## [Symmetric](https://leetcode.com/problems/symmetric-tree/)
 
