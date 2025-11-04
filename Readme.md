@@ -1,8 +1,12 @@
 ## [Normal]
 
+## [Balanced_Tree](https://leetcode.com/problems/balanced-binary-tree/)
+
 ## [In_Order](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 ## [Invert_Tree](https://leetcode.com/problems/invert-binary-tree/)
+
+## [Left_Sum_Tree](https://leetcode.com/problems/sum-of-left-leaves/)
 
 ## [Level_Order](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
