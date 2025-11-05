@@ -2,6 +2,8 @@
 
 ## [Balanced_Tree](https://leetcode.com/problems/balanced-binary-tree/)
 
+## [Diameter_Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
 ## [In_Order](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 ## [Invert_Tree](https://leetcode.com/problems/invert-binary-tree/)
