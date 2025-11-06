@@ -12,6 +12,8 @@
 
 ## [Level_Order](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 
+## [Lowest_Common_Ancestor](https://namastedev.com/learn/namaste-dsa/lowest-common-ancestor)
+
 ## [Maximum_Depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 
 ## [Path_SUM](https://leetcode.com/problems/path-sum/)
