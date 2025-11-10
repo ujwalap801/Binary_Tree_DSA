@@ -20,6 +20,8 @@
 
 ## [Path_SUM](https://leetcode.com/problems/path-sum/)
 
+## [Populating_Right_Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)
+
 ## [Post_Order](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
 ## [Pre_Order](https://leetcode.com/problems/binary-tree-preorder-traversal/)
