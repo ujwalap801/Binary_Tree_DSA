@@ -26,6 +26,10 @@
 
 ## [Pre_Order](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 
+## [Max_PathSum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+## [Max_Level_Sum](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/?)
+
 ## [Right_Side_View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ## [Same_Tree](https://leetcode.com/problems/same-tree/)
